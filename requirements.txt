@@ -1,0 +1,6 @@
+tensorflow
+streamlit
+nltk
+scikit-learn
+PyPDF2
+numpy
