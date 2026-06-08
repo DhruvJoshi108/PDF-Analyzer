@@ -13,7 +13,7 @@ streamlit run app.py
 
 Use these values when creating the app:
 
-- Repository: your GitHub repository for this project
+- Repository: `DhruvJoshi108/PDF-Analyzer`
 - Branch: `main`
 - Main file path: `app.py`
 
